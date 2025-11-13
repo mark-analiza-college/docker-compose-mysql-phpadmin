@@ -1,0 +1,8 @@
+🌐 3. Open phpMyAdmin
+
+Go to → http://localhost:8080￼
+	•	Server: mysql
+	•	Username: root
+	•	Password: root
+
+
